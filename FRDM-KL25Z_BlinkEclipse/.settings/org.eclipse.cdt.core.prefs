@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.402442434/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.402442434/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.402442434/PATH/value=${eclipse_home}tools\\GNU Tools\\bin;E\:\\ProgramFiles\\eclipse_automotive_luna_r\\tools\\GNU Tools ARM Embedded\\4.8 2014q3\\bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.402442434/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.402442434/appendContributed=true
