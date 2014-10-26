@@ -3,7 +3,7 @@
  *
  */
 
-#include "derivative.h" /* include peripheral declarations  */
+#include "derivative.h" /* include peripheral declarations!!? */
 #include <stdio.h>
 
 #define RED         (18)
