@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.201660803/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.201660803/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.201660803/PATH/value=E\:\\ProgramFiles\\eclipse_automotive_luna_r\\tools\\GNU Tools\\bin;E\:\\ProgramFiles\\eclipse_automotive_luna_r\\tools\\GNU Tools ARM Embedded\\4.8 2014q3\\bin
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.201660803/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.201660803/appendContributed=true
